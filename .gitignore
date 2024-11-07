@@ -1,0 +1,9 @@
+**/node_modules
+
+docs/.vuepress/.cache
+docs/.vuepress/.temp
+docs/.vuepress/dist
+docs/.vuepress/config.ts
+docs/工具配置/账号数据.md
+.DS_Store
+*.log
